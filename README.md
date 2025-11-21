@@ -43,7 +43,7 @@ Focused on building stable systems, scalable tools, and gameplay experiences wit
 ## 🌐 Contact
 - 🌍 **Portfolio:** [https://joanpuig.com](https://joanpuig.com) (coming soon)  
 - 💼 **LinkedIn:** *(coming soon)*  
-- 📧 **Professional Email:** *<a mailto>contact@joanpuig.com</a>*
+- 📧 **Email:** *<a mailto>contact@joanpuig.com</a>*
 
 ---
 
