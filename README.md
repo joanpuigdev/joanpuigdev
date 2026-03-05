@@ -13,8 +13,8 @@ Focused on building stable systems, scalable tools, and gameplay experiences wit
 
 ## 🧩 Areas of Expertise
 - 🎮 **Game Development**: Unity · Unreal/UEFN (Verse) · C# · Gameplay Systems
-- 🎨 **Modeling, Animation & Texturing**: Character & Prop Artist · Stylized 3D Artist, Technical Artist
-- ⚙️ **Tools & Pipelines**: Shaders · Graph Systems · Cinemachine · Asset Workflows
+- 🎨 **Modeling, Animation & Texturing**: Stylized 3D Artist, Technical Artist
+- ⚙️ **Tools & Pipelines**: Shaders · Graph Systems · Asset Workflows
 - 🌐 **Web/App Development**: React · Next.js · Astro · Node.js · Swift
 - 🤖 **AI & Local Models**: Ollama · Whisper · Stable Diffusion
 - 🛠️ **Infrastructure & DevOps**: Docker · Git · Markdown · Digital Workflow Architecture
