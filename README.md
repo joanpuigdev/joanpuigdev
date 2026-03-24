@@ -12,10 +12,10 @@ Focused on building stable systems, scalable tools, and gameplay experiences wit
 ---
 
 ## 🧩 Areas of Expertise
-- 🎮 **Game Development**: Unity · Unreal/UEFN (Verse) · C# · Gameplay Systems
+- 🎮 **Game Development**: Godot (GDScript) · Unity (C#) · Unreal/UEFN (Verse) · Gameplay Systems
 - 🎨 **Modeling, Animation & Texturing**: Stylized 3D Artist, Technical Artist
 - ⚙️ **Tools & Pipelines**: Shaders · Graph Systems · Asset Workflows
-- 🌐 **Web/App Development**: React · Next.js · Astro · Node.js · Swift
+- 🌐 **Web/App Development**: React · Next.js · Astro · Node.js · C# · Swift
 - 🤖 **AI & Local Models**: Ollama · Whisper · Stable Diffusion
 - 🛠️ **Infrastructure & DevOps**: Docker · Git · Markdown · Digital Workflow Architecture
 
@@ -24,10 +24,10 @@ Focused on building stable systems, scalable tools, and gameplay experiences wit
 ## ✨ Main Stack
 
 **Languages**  
-`C#` · `Python` · `TypeScript` · `Swift`
+`Python` · `C#` · `GDScript` · `Javascript` · `TypeScript` · `Swift`
 
 **Engines**  
-`Unity` · `Unreal Engine` · `UEFN/Verse` · `Godot`
+`Godot` · `Unity` · `Unreal Engine` · `UEFN/Verse`
 
 **Game Tech**  
 `Blender` · `3DMAX` · `Zbrush` · `Substance Painter` · `Marmmoset`
