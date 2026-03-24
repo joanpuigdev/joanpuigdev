@@ -6,44 +6,53 @@
 ---
 
 ## ⚡️ Profile
-Developer specialized in **game development**, **interactive technology**, **local AI**, and **high-performance applications**.  
-Focused on building stable systems, scalable tools, and gameplay experiences with personality.
+Unity game developer specialized in interactive systems and local AI, with experience in full-stack development.
+
+I build high-performance, scalable, and robust systems — from modular asset packs to complete gameplay experiences — with a strong focus on clarity, usability, and distinctive identity.
 
 ---
 
-## 🧩 Areas of Expertise
-- 🎮 **Game Development**: Godot (GDScript) · Unity (C#) · Unreal/UEFN (Verse) · Gameplay Systems
-- 🎨 **Modeling, Animation & Texturing**: Stylized 3D Artist, Technical Artist
-- ⚙️ **Tools & Pipelines**: Shaders · Graph Systems · Asset Workflows
-- 🌐 **Web/App Development**: React · Next.js · Astro · Node.js · C# · Swift
-- 🤖 **AI & Local Models**: Ollama · Whisper · Stable Diffusion
-- 🛠️ **Infrastructure & DevOps**: Docker · Git · Markdown · Digital Workflow Architecture
+## 🚧 Currently building
+- 🧱 Modular Blockout Asset Pack (Unity Asset Store)
+- 🤖 Local AI assistant (Ollama-based)
+- 🎮 Gameplay systems & reusable tools
+- 🌱 Exploring Godot and expanding my engine toolkit
 
 ---
 
-## ✨ Main Stack
+## ⭐ Featured projects
+### 🧱 Modular Blockout Pack
+Professional Unity asset pack focused on clean topology, standardization, and usability.  
+Designed for fast prototyping and scalable level design workflows.
 
-**Languages**  
-`Python` · `C#` · `GDScript` · `Javascript` · `TypeScript` · `Swift`
+### 🤖 Meli (Local AI Assistant)
+Lightweight local AI assistant built with Ollama.  
+Focused on personality, responsiveness, and real-time interaction.
 
-**Engines**  
-`Godot` · `Unity` · `Unreal Engine` · `UEFN/Verse`
 
-**Game Tech**  
-`Blender` · `3DMAX` · `Zbrush` · `Substance Painter` · `Marmmoset`
-
-**Frontend / Backend**  
-`React` · `Next.js` · `Astro` · `Node.js` · `Tailwind` · `FastAPI` · `PostgreSQL` · `MySQL` · `MongoDB`
-
-**AI / LLM**  
-`Ollama` · `Stable Diffusion` · `Whisper`
+## 🛠️ Tech stack
+- 🎮 Unity (C#)
+- 🧠 Local AI (Ollama, LLMs)
+- 🧰 Tools & pipelines
+- 🎨 Blender (3D)
+- 🐍 Python (FastAPI)
+- 🧪 Learning Godot (GDScript)
 
 ---
 
-## 🌐 Contact
-- 🌍 **Portfolio:** [https://joanpuig.com](https://joanpuig.com) (coming soon)  
-- 💼 **LinkedIn:** *(coming soon)*  
-- 📧 **Email:** *<a mailto>contact@joanpuig.com</a>*
+## 🎯 Focus
+- Clean and scalable architectures
+- Performance-first development
+- Reusable tools and workflows
+- Gameplay with strong identity
+
+---
+
+## 🌐 Links
+- **Portfolio:** *(coming soon)* 
+- **Itch.io:** *(coming soon)* 
+- 💼 **LinkedIn:** *(coming soon)*
+- 📧 **Email:** *<a mailto>contact@joanpuig.com</a>*  
 
 ---
 
