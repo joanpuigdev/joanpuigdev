@@ -49,8 +49,8 @@ Focused on personality, responsiveness, and real-time interaction.
 ---
 
 ## 🌐 Links
-- **Portfolio:** *(coming soon)* 
-- **Itch.io:** *(coming soon)* 
+- 🧩 **Portfolio:** *(coming soon)* 
+- 🎮 **Itch.io:** *(coming soon)* 
 - 💼 **LinkedIn:** *(coming soon)*
 - 📧 **Email:** *<a mailto>contact@joanpuig.com</a>*  
 
