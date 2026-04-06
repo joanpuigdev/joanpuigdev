@@ -21,12 +21,12 @@ I build high-performance, scalable, and robust systems — from modular asset pa
 ---
 
 ## ⭐ Featured projects
-### 🧱 Modular Blockout Pack
+### 🧱 Modular Blockout Pack (on hold as i'm moving to Godot)
 Professional Unity asset pack focused on clean topology, standardization, and usability.  
 Designed for fast prototyping and scalable level design workflows.
 
 ### 🤖 Meli (Local AI Assistant)
-Lightweight local AI assistant built with Ollama.  
+Lightweight local AI assistant built with Ollama.
 Focused on personality, responsiveness, and real-time interaction.
 
 
