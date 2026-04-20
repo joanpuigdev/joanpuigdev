@@ -1,59 +1,96 @@
 <h1 align="center">👤 Joan Puig Granel</h1>
+
 <p align="center">
-  <b>Game Developer · Full-Stack Developer · AI Tools Engineer · Tech Artist</b>
+  <b>Full-Stack Developer · Game Developer · AI Tools Engineer</b>
+</p>
+
+<p align="center">
+  🚀 Building scalable tools, gameplay systems, and AI-driven products
+</p>
+
+<p align="center">
+  <i>Building products, not just code.</i>
 </p>
 
 ---
 
-## ⚡️ Profile
-Unity game developer specialized in interactive systems and local AI, with experience in full-stack development.
+## ⚡️ What I do
+I design and build **developer tools, gameplay systems, and AI-powered workflows** focused on performance, scalability, and real-world usability.
 
-I build high-performance, scalable, and robust systems — from modular asset packs to complete gameplay experiences — with a strong focus on clarity, usability, and distinctive identity.
-
----
-
-## 🚧 Currently building
-- 🧱 Modular Blockout Asset Pack (Unity Asset Store)
-- 🤖 Local AI assistant (Ollama-based)
-- 🎮 Gameplay systems & reusable tools
-- 🌱 Exploring Godot and expanding my engine toolkit
+My work sits at the intersection of:
+- 🎮 Game development systems  
+- 🧠 Local AI & automation  
+- ⚙️ Developer productivity tools  
 
 ---
 
-## ⭐ Featured projects
-### 🧱 Modular Blockout Pack (on hold as i'm moving to Godot)
-Professional Unity asset pack focused on clean topology, standardization, and usability.  
-Designed for fast prototyping and scalable level design workflows.
+## 🚀 Current focus
+- 🤖 Building a local AI assistant (Ollama-based)
+- ⚙️ Creating AI-driven dev tools & workflows
+- 🎮 Designing reusable gameplay systems
 
-### 🤖 Meli (Local AI Assistant)
-Lightweight local AI assistant built with Ollama.
-Focused on personality, responsiveness, and real-time interaction.
+---
 
+## 💼 Featured work
+
+### 🤖 Meli — Local AI Assistant
+Local-first AI assistant powered by Ollama.  
+Designed for responsiveness, extensibility, and real-time interaction.
+
+→ Focus: AI agents · local inference · UX personality  
+
+---
+
+### ⚙️ Dev Tools & CI/CD Workflows
+Automation tools and pipelines built using AI (Claude, Codex).
+
+→ Focus: reducing dev friction · automation · productivity  
+
+---
 
 ## 🛠️ Tech stack
-- 🎮 Unity (C#)
-- 🧠 Local AI (Ollama, LLMs)
-- 🧰 Tools & pipelines
-- 🎨 Blender (3D)
-- 🐍 Python (FastAPI)
-- 🧪 Learning Godot (GDScript)
+
+### 🎮 Game Development
+- Unity (C#)
+- Godot (GDScript)
+
+### ⚛️ Frontend
+- React · Next.js · Astro
+- JavaScript · TypeScript
+
+### 🧠 AI & Automation
+- Ollama · Local LLMs
+- Claude · Codex (agents & workflows)
+
+### 🐍 Backend
+- Python (FastAPI)
+
+### 🎨 3D & Systems
+- Blender
+- Modular pipelines & tools
+
+### ⚙️ DevOps
+- CI/CD pipelines
+- Git · GitHub
 
 ---
 
-## 🎯 Focus
-- Clean and scalable architectures
-- Performance-first development
-- Reusable tools and workflows
-- Gameplay with strong identity
+## 🎯 Core strengths
+- Scalable systems & clean architecture  
+- Developer tools & automation  
+- AI-driven workflows  
+- Performance-first mindset  
 
 ---
 
 ## 🌐 Links
-- 🧩 **Portfolio:** *(coming soon)* 
-- 🎮 **Itch.io:** *(coming soon)* 
-- 💼 **LinkedIn:** *(coming soon)*
-- 📧 **Email:** *<a mailto>contact@joanpuig.com</a>*  
+- 🧩 Portfolio: coming soon  
+- 🎮 Itch.io: coming soon  
+- 💼 LinkedIn: coming soon  
+- 📧 Email: contact@joanpuig.com  
 
 ---
 
-<p align="center"><i>Tech-driven. Creative-focused. Always building.</i></p>
+<p align="center">
+  <b>🚀 Open to building tools, systems, and AI-driven products</b>
+</p>
